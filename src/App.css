@@ -129,6 +129,13 @@
     );
 }
 
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 80vw;
+}
+
 .bookshelf {
   width: 100%;
   margin-top: 32px;
@@ -173,7 +180,7 @@
   writing-mode: vertical-rl;
 }
 
-.spine-author {
+.spine-status {
   position: absolute;
   color: goldenrod;
   bottom: 0px;
