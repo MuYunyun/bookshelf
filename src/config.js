@@ -1,6 +1,20 @@
 const Config = [
   {
     imgUrl: 'xxx',
+    title: 'Rust权威指南',
+    year: '2023',
+    tags: ['编程'],
+    status: '在读'
+  },
+  {
+    imgUrl: 'xxx',
+    title: '淘宝十年产品事',
+    year: '2023',
+    tags: ['产品'],
+    status: '在读'
+  },
+  {
+    imgUrl: 'xxx',
     title: '程序员修炼之道',
     year: '2022',
     tags: ['编程'],
@@ -22,10 +36,10 @@ const Config = [
   },
   {
     imgUrl: 'xxx',
-    title: 'Rust权威指南',
-    year: '2023',
-    tags: ['编程'],
-    status: '在读'
+    title: '拼多多开店全攻略',
+    year: '2020',
+    tags: ['生活'],
+    status: '已读'
   },
 ]
 
