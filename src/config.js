@@ -4,7 +4,7 @@ const Config = [
     title: 'Rust权威指南',
     year: '2023',
     tags: ['编程'],
-    status: '在读'
+    status: '已读'
   },
   {
     imgUrl: 'xxx',
