@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://muyunyun.cn/bookshelf/static/css/main.367597b7.css",
-    "main.js": "https://muyunyun.cn/bookshelf/static/js/main.5cf5e51e.js",
+    "main.js": "https://muyunyun.cn/bookshelf/static/js/main.b389179c.js",
     "static/js/787.28cb0dcd.chunk.js": "https://muyunyun.cn/bookshelf/static/js/787.28cb0dcd.chunk.js",
     "index.html": "https://muyunyun.cn/bookshelf/index.html",
     "main.367597b7.css.map": "https://muyunyun.cn/bookshelf/static/css/main.367597b7.css.map",
-    "main.5cf5e51e.js.map": "https://muyunyun.cn/bookshelf/static/js/main.5cf5e51e.js.map",
+    "main.b389179c.js.map": "https://muyunyun.cn/bookshelf/static/js/main.b389179c.js.map",
     "787.28cb0dcd.chunk.js.map": "https://muyunyun.cn/bookshelf/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.367597b7.css",
-    "static/js/main.5cf5e51e.js"
+    "static/js/main.b389179c.js"
   ]
 }
