@@ -11,7 +11,7 @@ const Config = [
     title: '淘宝十年产品事',
     year: '2023',
     tags: ['产品'],
-    status: '在读'
+    status: '已读'
   },
   {
     imgUrl: 'xxx',
