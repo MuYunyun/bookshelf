@@ -1,16 +1,23 @@
 const Config = [
   {
     imgUrl: 'xxx',
-    title: 'Rust权威指南',
+    title: '幕后产品',
     year: '2023',
-    tags: ['编程'],
-    status: '已读'
+    tags: ['产品'],
+    status: '在读'
   },
   {
     imgUrl: 'xxx',
     title: '淘宝十年产品事',
     year: '2023',
     tags: ['产品'],
+    status: '已读'
+  },
+  {
+    imgUrl: 'xxx',
+    title: 'Rust权威指南',
+    year: '2023',
+    tags: ['编程'],
     status: '已读'
   },
   {
